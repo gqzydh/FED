@@ -2874,4 +2874,10 @@
     "ico":"https://hellogithub.com/favicon.ico",
     "des":"为HTML5与CSS3语法提供浏览器兼容性测试及使用建议" ,
     "tags":["开发建议","兼容性","HTML5"]
+},{
+    "name":"CodeCasts|程序员中文视频教学社区",
+    "url":"https://www.codecasts.com/",
+    "ico":"https://www.codecasts.com/images/favicon.ico",
+    "des":"从高质量的视频中学习Web开发技术" ,
+    "tags":["教程","社区"]
 }]
